@@ -26,7 +26,6 @@ STEP 5:Include Necessary parameters in each functions.
  <img width="1118" height="722" alt="image" src="https://github.com/user-attachments/assets/a2039380-c0da-4765-b3e3-b0464d0ca7ec" />
  <img width="1261" height="742" alt="image" src="https://github.com/user-attachments/assets/efa056d1-0988-42e7-b313-d244ef044d7e" />
  <img width="1390" height="727" alt="image" src="https://github.com/user-attachments/assets/202bd1f9-c5d7-4b7d-bdac-02f61a5d0595" />
- <img width="1207" height="717" alt="image" src="https://github.com/user-attachments/assets/ca27c627-d681-4a9d-b204-f1b41f0eb16c" />
 <img width="1198" height="751" alt="image" src="https://github.com/user-attachments/assets/3a0e744a-c71f-4cf2-9304-86658e4a4f5f" />
 <img width="1102" height="737" alt="image" src="https://github.com/user-attachments/assets/6e0e6f86-c8c8-4d3d-b55f-c9ec0ee8bf40" />
 <img width="1052" height="737" alt="image" src="https://github.com/user-attachments/assets/9db99935-3011-4b08-99de-010d1b2980ad" />
